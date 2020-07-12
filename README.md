@@ -1,4 +1,4 @@
-# RTCjs
+# Real Time Chart Javascript (RTCjs)
 RTCjs (Real Time Chart Javascript) library is designed for real time applications including engineering solutions and plotting any other parameters. It's size is small making it fastest to load. It is designed for quickest implementation and consists of functions that are user freindly. It includes built in zoom in feature and allows user to implement x axis label of any kind from number to date time. Try it. You will be satisfied by it's features!
 
 Get Started tutorial:
