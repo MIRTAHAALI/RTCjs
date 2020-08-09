@@ -8,24 +8,25 @@ License Type:
 MIT
 
 # Features
-1 - Zoom:
-Built in zoom in and out feature to zoom graph along X axis. No need to develop complex code for zooming graph.
+1 - Zoom
+  Built in zoom in and out feature to zoom graph along X axis. No need to develop complex code for zooming graph.
 
-2 - Scroll:
-Allows zoomed graph to be scrolled.
+2 - Scroll
+  Allows zoomed graph to be scrolled.
 
 3 - Axis Ruler
-A tooltip alternative, to monitor parameters at any instant allowing user to view at fastest rate.
+  A tooltip alternative, to monitor parameters at any instant allowing user to view at fastest rate.
 
-4 - Others:
-Easy to integrate time axis on X- axis.
+4 - Others
 
-Easy to change line color, widths and dots.
+  i-    Easy to integrate time axis on X- axis.
 
-Enable user to create custom zoom and scroll buttons.
+  ii-   Easy to change line color, widths and dots.
 
-Allow user to switch between auto zoom and manual zoom along y axis.
+  iii-  Enable user to create custom zoom and scroll buttons.
 
-Allow user to modify table columns.
+  iv-   Allow user to switch between auto zoom and manual zoom along y axis.
 
-Allow user to decorate chart to custom colors.
+  v-    Allow user to modify table columns.
+
+  vi-   Allow user to decorate chart to custom colors.
